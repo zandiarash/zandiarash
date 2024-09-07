@@ -12,7 +12,7 @@
 
 [<img async src="./Icons/csharp.svg" alt="C#" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/dotnet.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/angular.svg" alt="C#" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/aspire.svg" alt="C#" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/docker.svg" alt="C#" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/sql.svg" alt="C#" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/redis.svg" alt="C#" height="40">](https://github.com/zandiarash)
@@ -20,7 +20,6 @@
 [<img async src="./Icons/mongo.svg" alt="C#" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/html.svg" alt="C#" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/css.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/js.svg" alt="C#" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/js.svg" alt="C#" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/postgres.svg" alt="C#" height="40">](https://github.com/zandiarash)
 
