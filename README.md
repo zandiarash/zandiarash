@@ -13,7 +13,7 @@
 [<img async src="./Icons/csharp.svg" alt="C#" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/dotnet.svg" alt="Dotnet" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/aspire.svg" alt="Aspire" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/blazor.svg" alt="Aspire" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/blazor.svg" alt="blazor" height="40" >](https://github.com/zandiarash)
 [<img async src="./Icons/docker.svg" alt="Docker" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/sql.svg" alt="MSSQL" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/postgres.svg" alt="C#" height="40">](https://github.com/zandiarash)
