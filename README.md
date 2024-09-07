@@ -11,17 +11,18 @@
 ### My Technical Skills and Expertise
 
 [<img async src="./Icons/csharp.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/dotnet.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/aspire.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/docker.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/sql.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/redis.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/elk.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/mongo.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/html.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/css.svg" alt="C#" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/js.svg" alt="C#" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/dotnet.svg" alt="Dotnet" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/aspire.svg" alt="Aspire" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/blazor.svg" alt="Aspire" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/docker.svg" alt="Docker" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/sql.svg" alt="MSSQL" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/postgres.svg" alt="C#" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/redis.svg" alt="Redis" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/elk.svg" alt="ElasticSearch" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/html.svg" alt="Html" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/css.svg" alt="CSS" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/js.svg" alt="JS" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/jquery.svg" alt="jQuery" height="40">](https://github.com/zandiarash)
 
 ---
 
