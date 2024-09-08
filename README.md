@@ -22,7 +22,7 @@
 [<img async src="./Icons/html.svg" alt="Html" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/css.svg" alt="CSS" height="40">](https://github.com/zandiarash)
 [<img async src="./Icons/js.svg" alt="JS" height="40">](https://github.com/zandiarash)
-[<img async src="./Icons/jquery.svg" alt="jQuery" height="40">](https://github.com/zandiarash)
+[<img async src="./Icons/jquery2.svg" alt="jQuery" height="40">](https://github.com/zandiarash)
 
 ---
 
