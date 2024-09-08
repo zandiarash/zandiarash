@@ -27,7 +27,7 @@
 ---
 
   <a href="https://github.com/zandiarash">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zandiarash&show_icons=true&theme=transparent&count_private=true" alt="Arash Zandi's GitHub   Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zandiarash&show_icons=true&theme=transparent&count_private=true" alt="Arash Zandi's GitHub Stats" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zandiarash&theme=transparent&layout=compact&v=1&exclude_repo=Sam.SchoolProjects" 
       alt="Arash Zandi GitHub Top Languages" />
   </a>
