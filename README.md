@@ -6,6 +6,7 @@
 
 [![Stack Overflow](./Icons/Gradient%20icons/stackoverflow.svg)](https://stackoverflow.com/users/3046588/arash-zandi)
 [<img async src="./Icons/dev-to.svg" alt="C#" height="60">](https://dev.to/arashzandi)
+[![linkedIn](./Icons/Gradient%20icons/linkedin.svg)](https://www.linkedin.com/in/zandiarash)
 
 ---
  
